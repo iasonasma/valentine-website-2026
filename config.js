@@ -29,7 +29,7 @@ const CONFIG = {
         second: {
             text: "Πόσο πραγματικά μαγαπάς?",                          // For the love meter
             startText: "Τόσο πολύ!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Φύγαμε ❤️"                                         // Text for the next button
         },
         third: {
             text: "Θα γίνει η βαλεντίνα μου στις 14 Φεβρουαρίου? Αν έχει κανονίσει κάτι, κόψτο! 🌹", // The big question!
