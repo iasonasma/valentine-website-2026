@@ -41,9 +41,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "ΟΝΤΩΣ ΤΩΡΑ?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "ΣΤΟ ΑΠΕΙΡΟ ΚΑΙ ΑΚΟΜΑ ΠΑΡΑΠΕΡΑ! 🚀💝",              // Shows when they go past 1000%
-        normal: "ΚΑΙ ΠΙΟ ΠΟΛΥ! 🥰"                           // Shows when they go past 100%
+        extreme: "ΟΝΤΩΣ ΤΩΡΑ?? 💝",  // Shows when they go past 5000%
+        high: "ΝΑΙ ΚΑΛΑ!",              // Shows when they go past 1000%
+        normal: "ΣΤΟ ΑΠΕΙΡΟ ΚΑΙ ΑΚΟΜΑ ΠΑΡΑΠΕΡΑ 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
